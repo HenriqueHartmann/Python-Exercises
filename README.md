@@ -1,2 +1,3 @@
 # Python-Exercises
-A few exercises to improve my skills in Python. You can find them on: ✌️ https://www.w3resource.com/python-exercises/
+:snake: A few exercises to improve my skills in Python. 
+You can find them on: ✌️ https://www.w3resource.com/python-exercises/
